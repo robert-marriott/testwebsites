@@ -1,0 +1,26 @@
+#titleheading{
+  /*for stuff inside jumbotron. */
+  color: black;
+  text-align: center;
+  /*font-family: 'Open Sans', sans-serif;*/
+  font-family: 'Volkhov', serif;
+}
+#navtop{
+
+}
+
+#accordion{
+  background: rgba(215, 219, 226, 0.5);
+}
+
+.jumbotron{
+  background: rgba(215, 219, 226, 0.5);
+}
+
+body {
+  /*override to add a full screen background image*/
+  padding-top: 75px;
+    background-image: url("purty.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+}
